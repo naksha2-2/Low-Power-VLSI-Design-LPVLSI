@@ -28,15 +28,7 @@ Power consumption in VLSI circuits is mainly classified into:
 
 Caused by switching activity in CMOS gates.
 
-**Equation:**
-[ P_{dynamic} = \alpha C_L V_{DD}^2 f ]
 
-Where:
-
-* (\alpha) = switching activity factor
-* (C_L) = load capacitance
-* (V_{DD}) = supply voltage
-* (f) = clock frequency
 
 ### 2. Static Power
 
